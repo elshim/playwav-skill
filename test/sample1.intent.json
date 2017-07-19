@@ -1,0 +1,7 @@
+{
+  "utterance": "play wav",
+  "intent_type": "PlayWavSkillIntent",
+  "intent": {
+    "PlayWavSkillKeyword": "play wav"
+  }
+}

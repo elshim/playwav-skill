@@ -1,0 +1,7 @@
+{
+  "utterance": "play wave",
+  "intent_type": "PlayWavSkillIntent",
+  "intent": {
+    "PlayWavSkillKeyword": "play wave"
+  }
+}
