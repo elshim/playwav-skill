@@ -14,7 +14,7 @@ class PlayWavSkill(MycroftSkill):
     def __init__(self):
 		super(PlayWavSkill, self).__init__(name="PlayWavSkill")
 		self.play_process = None
-		self.file_path = self.config.get('test.wav')
+		self.file_path = ('/opt/mycroft/skills/playwav-skill/test.wav')
 				
     def initialize(self):
 		play_wav_intent = IntentBuilder("PlayWavIntent").\
